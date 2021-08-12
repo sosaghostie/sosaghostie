@@ -1,7 +1,7 @@
 ![Header](./header.png)
 
 <h1 align="center">sosa</h1>
-<p align="center">𝘐𝘯𝘵𝘦𝘳𝘮𝘦𝘥𝘪𝘢𝘵𝘦 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳</p>
+<p align="center">href="https://sosaghostie.me/">sorrow</p>
 <a href="https://github.com/sosaghostie">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=sosaghostie&color=blueviolet" alt="Profile Views">
