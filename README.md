@@ -3,8 +3,7 @@
 <p align="center">  
 <img src="https://cdn.discordapp.com/attachments/908412272957853746/910592914441256980/a_7fa03b81687536ee3e4b0fc021518edc_1.gif">
 </p>
-<h1 align="center">sosa</h1>
-<p align="center"><a href="https://sosaghostie.me/">𝘴𝘰𝘳𝘳𝘰𝘸</a></p>
+<h1 align="center"><a href="https://sorrowbot.tech/">sosa</a></h1>
 <a href="https://github.com/sosaghostie">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=sosaghostie&color=blueviolet" alt="Profile Views">
