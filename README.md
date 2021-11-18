@@ -13,4 +13,3 @@
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/774842100336295946.png" alt="Discord Banner 4"/>
 </p>
-  <br />
