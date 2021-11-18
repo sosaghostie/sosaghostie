@@ -1,7 +1,7 @@
 
 
 <p align="center">  
-<img src="https://cdn.discordapp.com/avatars/336594090869129216/a_7fa03b81687536ee3e4b0fc021518edc.gif?size=4096">
+<img src="https://cdn.discordapp.com/attachments/908412272957853746/910592914441256980/a_7fa03b81687536ee3e4b0fc021518edc_1.gif">
 </p>
 <h1 align="center">sosa</h1>
 <p align="center"><a href="https://sosaghostie.me/">𝘴𝘰𝘳𝘳𝘰𝘸</a></p>
