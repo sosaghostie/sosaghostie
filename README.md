@@ -6,7 +6,7 @@
   </p>
 </a>
 <p align="center">  
-<img src="https://cdn.discordapp.com/attachments/908412272957853746/910592914441256980/a_7fa03b81687536ee3e4b0fc021518edc_1.gif">
+<img src="https://cdn.discordapp.com/banners/774842100336295946/a_d62b080f41a9a44f47e0f37effe6541b.gif?size=2048">
 </p>
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/774842100336295946.png" alt="Discord Banner 4"/>
