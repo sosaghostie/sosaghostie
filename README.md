@@ -1,5 +1,11 @@
 
-<h1 align="center"><a href="https://sorrowbot.tech/">sosa</a></h1>
+<h1 align="center"><a href="https://sorrowbot.tech/">
+.▄▄ ·       ▄▄▄  ▄▄▄        ▄▄▌ ▐ ▄▌
+▐█ ▀. ▪     ▀▄ █·▀▄ █·▪     ██· █▌▐█
+▄▀▀▀█▄ ▄█▀▄ ▐▀▀▄ ▐▀▀▄  ▄█▀▄ ██▪▐█▐▐▌
+▐█▄▪▐█▐█▌.▐▌▐█•█▌▐█•█▌▐█▌.▐▌▐█▌██▐█▌
+ ▀▀▀▀  ▀█▄▀▪.▀  ▀.▀  ▀ ▀█▄▀▪ ▀▀▀▀ ▀▪
+</a></h1>
 <a href="https://github.com/sosaghostie">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=sosaghostie&color=blueviolet" alt="Profile Views">
